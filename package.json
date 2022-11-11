@@ -1,0 +1,16 @@
+{
+  "name": "my-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "lint": "eslint ./"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.27.0",
+    "stylelint": "^14.14.1",
+    "stylelint-config-standard": "^29.0.0"
+  }
+}
