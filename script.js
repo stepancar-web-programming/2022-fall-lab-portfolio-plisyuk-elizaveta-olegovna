@@ -1,9 +1,9 @@
-let dots = document.getElementsByClassName('dots-item'),
-    dotsArea = document.getElementsByClassName('dots-block')[0],
-    slides = document.getElementsByClassName('slides-items'),
-    prevB = document.getElementById('left-button'),
-    nextB = document.getElementById('right-button'),
-    slideIndex = 1;
+let dots = document.getElementsByClassName('dots-item')
+let dotsArea = document.getElementsByClassName('dots-block')[0]
+let slides = document.getElementsByClassName('slides-items')
+let prevB = document.getElementById('left-button')
+let nextB = document.getElementById('right-button')
+let slideIndex = 1;
 
 showSlides(slideIndex);
 

@@ -28,7 +28,7 @@ aside {
 
 .text_cont_large {
     margin-bottom: 10px;
-    margin-left: 2px;
+    margin-left: -2px;
     color: #4D4D4D;
 }
 
@@ -249,4 +249,8 @@ aside {
 
 .active {
     background: #fff;
+}
+
+.link {
+    color: #fff;
 }
