@@ -12,6 +12,5 @@
     "eslint": "^8.27.0",
     "stylelint": "^14.14.1",
     "stylelint-config-standard": "^29.0.0"
-  },
-  "homepage": "https://lizaputeshestvenniza.github.io/Liza-s_portfolio/"
+  }
 }
